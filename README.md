@@ -1,5 +1,4 @@
 # live555_with_cmake
-live555 compile with cmake environment
+This library move to linked url:
 
-linked url:
 https://github.com/melchi45/live555
